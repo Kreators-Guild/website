@@ -1,0 +1,12 @@
+baseURL = 'https://kreatorsguild.org/'
+languageCode = 'en-us'
+title = "Kreators Guild Inc."
+theme = 'ananke'
+
+[params]
+  text_color = ""
+  body_classes = "verdana bg-white"
+  author = ""
+  favicon = ""
+  site_logo = ""
+  recent_posts_number = 3
