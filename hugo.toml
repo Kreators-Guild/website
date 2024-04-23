@@ -1,4 +1,4 @@
-baseURL = 'https://kreatorsguild.org/'
+baseURL = 'https://kreatorsguild.org'
 languageCode = 'en-us'
 title = "Kreators Guild Inc."
 theme = 'ananke'
