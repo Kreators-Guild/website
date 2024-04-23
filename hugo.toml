@@ -5,7 +5,7 @@ theme = 'ananke'
 
 [params]
   text_color = ""
-  body_classes = "verdana bg-white"
+  body_classes = "sans-serif bg-white"
   author = ""
   favicon = ""
   site_logo = ""
