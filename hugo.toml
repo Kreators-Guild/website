@@ -10,3 +10,7 @@ theme = 'ananke'
   favicon = ""
   site_logo = ""
   recent_posts_number = 3
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

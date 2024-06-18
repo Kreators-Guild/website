@@ -1,6 +1,8 @@
 ---
-title: "Volunteer and Employment Opportunities"
+title: "Volunteer"
 date: 2024-06-18
+type: page
+menu: main
 ---
 
 # Volunteer and Employment Opportunities

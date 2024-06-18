@@ -1,6 +1,8 @@
 ---
 title: "Donate"
 date: 2024-06-18
+type: page
+menu: main
 ---
 
 # Donate
@@ -9,11 +11,10 @@ Your support helps us provide quality STEM education and activities to young lea
 
 ## How to Donate
 
-You can donate via:
+You can donate via: <givebutter-widget id="j1zDoL"></givebutter-widget>
 
-- **Online Donation**: [Donate Now](#) (link to donation page)
-- **Mail a Check**: Send checks to Kreators Guild, 1234 STEM Lane, Innovate City, ST 56789
-- **In-Kind Donations**: Contact us at [info@kreatorsguild.org](mailto:info@kreatorsguild.org) to discuss in-kind donations such as equipment and materials.
+
+We also gladly accept **In-Kind Donations**: Contact us at [info@kreatorsguild.org](mailto:info@kreatorsguild.org) to discuss in-kind donations such as equipment and materials.
 
 ## How Your Donation Helps
 
@@ -22,3 +23,9 @@ You can donate via:
 - **$500**: Funds a full-day bootcamp for 10 students
 
 Thank you for your generous support!
+
+
+<script
+  async
+  src="https://widgets.givebutter.com/latest.umd.cjs?acct=8F9r0NpPw0UWgqUJ&p=other"
+></script>
