@@ -12,9 +12,6 @@ cascade:
 >
 > -- <cite>Mission Statement</cite>
 
-## Help Us
+**Kreators Guild is a registered 501(c)(3) non-profit organization.**
 
-* GoFundMe
-* Patreon
-* Kickstarter
-* Venmo
+Welcome to Kreators Guild! We are dedicated to inspiring and educating youth through engaging STEM activities. Explore our services to learn more about how we can create unforgettable STEM experiences for your group.
