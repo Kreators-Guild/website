@@ -21,14 +21,14 @@ We also gladly accept **In-Kind Donations**: Contact us at [info@kreatorsguild.o
 <!-- Wishlist Widget -->
 <div style="text-align: center; margin: 20px;">
     <a href="https://a.co/ipkf2YO" target="_blank" style="text-decoration: none;">
-        <img src="https://images-na.ssl-images-amazon.com/images/G/01/wishlist/generic_wl_main._CB485946019_.png" alt="Amazon Wishlist" style="width: 200px;">
+        <img src="https://m.media-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png" alt="Amazon Wishlist" style="width: 200px;">
         <div style="font-size: 16px; color: #333; margin-top: 10px;">Some core Equipment</div>
     </a>
 </div>
 
 <div style="text-align: center; margin: 20px;">
     <a href="https://a.co/g2e7pdD" target="_blank" style="text-decoration: none;">
-        <img src="https://images-na.ssl-images-amazon.com/images/G/01/wishlist/generic_wl_main._CB485946019_.png" alt="Amazon Wishlist" style="width: 200px;">
+        <img src="https://m.media-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png" alt="Amazon Wishlist" style="width: 200px;">
         <div style="font-size: 16px; color: #333; margin-top: 10px;">A mobile lab</div>
     </a>
 </div>
