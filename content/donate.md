@@ -16,6 +16,17 @@ You can donate via: <givebutter-widget id="j1zDoL"></givebutter-widget>
 
 We also gladly accept **In-Kind Donations**: Contact us at [info@kreatorsguild.org](mailto:info@kreatorsguild.org) to discuss in-kind donations such as equipment and materials.
 
+## Directly from WishList 
+
+<!-- Wishlist Widget -->
+<div style="text-align: center; margin: 20px;">
+    <a href="https://a.co/ipkf2YO" target="_blank" style="text-decoration: none;">
+        <img src="https://images-na.ssl-images-amazon.com/images/G/01/wishlist/generic_wl_main._CB485946019_.png" alt="Amazon Wishlist" style="width: 200px;">
+        <div style="font-size: 16px; color: #333; margin-top: 10px;">Check out my Amazon Wishlist</div>
+    </a>
+</div>
+
+
 ## How Your Donation Helps
 
 - **$50**: Provides materials for a single workshop
