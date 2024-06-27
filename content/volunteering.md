@@ -3,6 +3,8 @@ title: "Volunteer"
 date: 2024-06-18
 type: page
 menu: main
+featured_image: ''
+omit_header_text: true
 ---
 
 # Volunteer and Employment Opportunities
