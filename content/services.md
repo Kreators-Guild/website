@@ -26,7 +26,7 @@ We provide hands-on STEM activities tailored for parties or private events. Thes
   - $500 for a 3-hour session
   - Additional costs may apply for travel outside of a 30-mile radius
 
-## After-School Programs
+### After-School Programs
 Our after-school programs provide ongoing STEM education with a focus on creative problem-solving and teamwork. These programs run throughout the school year.
 
 - **Age Group**: 7-18 years
@@ -44,7 +44,7 @@ Our team is experienced in providing engineering activities that align with badg
   - $275 for a 4-hour session
   - Discounts available for large groups
 
-** Special Pricing for partner organizations available! **
+**Special Pricing for partner organizations available!**
 
 ## Frequently Asked Questions
 
@@ -65,6 +65,19 @@ Yes, we provide all necessary materials for the activities. For virtual events, 
 
 ### Can you customize activities for specific themes or learning goals?
 Absolutely! We can customize activities to fit specific themes or learning objectives. Please let us know your requirements when booking.
+
+## Collaboration with Other Non-Profits
+
+At Kreators Guild, we believe in the power of collaboration. We are eager to partner with other non-profits that assist youth. By working together, we can amplify our impact and reach more young minds. If your organization is interested in collaborating with us, please reach out!
+
+### Why Collaborate with Us?
+- **Shared Resources**: Pool our resources for larger, more impactful events.
+- **Expanded Reach**: Engage a wider audience through joint initiatives.
+- **Combined Expertise**: Leverage each other’s strengths and knowledge for better program outcomes.
+
+### Contact Us for Collaboration
+For more information on how we can collaborate, please contact us at:
+- Email: [info@kreatorsguild.org](mailto:info@kreatorsguild.org)
 
 ## Contact Us
 
